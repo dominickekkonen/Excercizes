@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\bin\Debug\net8.0\IF-ELSEIF-ELSE.exe
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\bin\Debug\net8.0\IF-ELSEIF-ELSE.deps.json
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\bin\Debug\net8.0\IF-ELSEIF-ELSE.runtimeconfig.json
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\bin\Debug\net8.0\IF-ELSEIF-ELSE.dll
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\bin\Debug\net8.0\IF-ELSEIF-ELSE.pdb
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\obj\Debug\net8.0\IF-ELSEIF-ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\obj\Debug\net8.0\IF-ELSEIF-ELSE.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\obj\Debug\net8.0\IF-ELSEIF-ELSE.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\obj\Debug\net8.0\IF-ELSEIF-ELSE.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\obj\Debug\net8.0\IF-ELSEIF-ELSE.sourcelink.json
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\obj\Debug\net8.0\IF-ELSEIF-ELSE.dll
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\obj\Debug\net8.0\refint\IF-ELSEIF-ELSE.dll
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\obj\Debug\net8.0\IF-ELSEIF-ELSE.pdb
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\obj\Debug\net8.0\IF-ELSEIF-ELSE.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\IF_loogilisedoperaatorid_tingimus\IF-ELSEIF-ELSE\obj\Debug\net8.0\ref\IF-ELSEIF-ELSE.dll

@@ -10,6 +10,25 @@
             //kui ta on lühem kui 2m, ütle tavaline kolge
             //kui ta on pikem kui 2m, ütle hiiglane
 
+            Console.WriteLine("Tere, kui pikk sa oled? sisesta sentimeetrides");
+            int pikkus = int.Parse(Console.ReadLine());
+            if (pikkus < 0 )
+            {
+                Console.WriteLine("Selline pikkus on võimatu");
+            }
+            else if (pikkus < 100)
+            {
+                Console.WriteLine("Oled Juntsu, hit the gym");
+            }
+            else if (pikkus < 200)
+            {
+                Console.WriteLine("Oled normi pikkusega kolge");
+            }
+            else if (pikkus > 200)
+            {
+                Console.WriteLine("Ossaraks, vaat kus hiiglane");
+            }
+
             //küsi kasutajalt kui vana ta on
             //küsi kasutajalt praegust aastaarvu
             //lahuta aastast kasutaja vanus
@@ -19,6 +38,8 @@
             //    kui jah, ütle tubli
             //    kui ei, ütle kahju
             //kui kasutaja on sündinud enne 2010, küsi mitu rage comicsit ta täna oma redditi lugemise ajal leidis 
+
+
 
             //küsi kasutajalt tema elukoha suunakoodi
             //kui suunakood on väiksem kui 5 tähte, ütle talle, 1 täht on puudu

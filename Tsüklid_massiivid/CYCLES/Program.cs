@@ -77,6 +77,8 @@
             // kui sisemine tsükkel on lõpetanud, siis kuva kasutajale see rida välja
             // kui ka esimene tsükkel on lõpetanud, siis kuva kasutajale tekst "tsüklid on lõpetanud"
 
+
+
             /* Foreach + list ülesanded */
 
             // 1. "suured summad"
