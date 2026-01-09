@@ -33,6 +33,15 @@
             // -> do while tsükli tingimuseks kirjuta kontroll, mis kontrollib muutuja "sõnum" pikkust .Length abil, kui sõnum on pikem kui 140 tähte, siis tsükkel lõppeb
             // peale tsüklit kuva sõnum "see sõnum enam twitterisse ei mahuks, kirjuta vähem fam"
 
+            string sõnum = "";
+            do
+            {
+                Console.WriteLine("Palun lisa järgmine sõnumi osa: ");
+                sõnum += Console.ReadLine();
+                Console.WriteLine(sõnum);
+            } while (sõnum.Length < 140);
+            Console.WriteLine("See sõnum enam Twitterisse ei mahuks, kirjuta vähem fäm.");
+
             /* While ülesanded*/
 
             // 1. "niikaua kuni ohtu pole"
@@ -99,7 +108,7 @@
                 }
                 Console.WriteLine(seeRida);
             }
-            Console.WriteLine("Tsüklid on lõpetanud")
+            Console.WriteLine("Tsüklid on lõpetanud");
             
 
             /* Foreach + list ülesanded */
