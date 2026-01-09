@@ -37,7 +37,41 @@
             //kui kasutaja on sündinud 2015-2010, küsi talt kas ta tahab saada programmeerijaks
             //    kui jah, ütle tubli
             //    kui ei, ütle kahju
-            //kui kasutaja on sündinud enne 2010, küsi mitu rage comicsit ta täna oma redditi lugemise ajal leidis 
+            //kui kasutaja on sündinud enne 2010, küsi mitu rage comicsit ta täna oma redditi lugemise ajal leidis
+
+            Console.WriteLine("Kui vana sa oled?");
+            int kasutajavanus = 0;
+            kasutajavanus = int.Parse(Console.ReadLine());
+            Console.WriteLine("Mis aasta hetkel kalendris on?");
+            int praeguneaasta = 0;
+            praeguneaasta = int.Parse(Console.ReadLine());
+            int generatsioon = praeguneaasta - kasutajavanus;
+            if (generatsioon <= 2025 && generatsioon > 2020)
+            {
+                Console.WriteLine("Kes sulle arvuti juba andis?");
+            }
+            else if (generatsioon <= 2020 && generatsioon > 2015)
+            {
+                Console.WriteLine("Skibidi sigma");
+            }
+            else if (generatsioon <= 2015 && generatsioon > 2010)
+            {
+                Console.WriteLine("Kas tahad saada programmerijaks?");
+                string vastus = "";
+                vastus = Console.ReadLine();
+                if (vastus == "jah")
+                {
+                    Console.WriteLine("JEE, TUBLI");
+                }
+                else
+                {
+                    Console.WriteLine("Kahju :(");
+                }
+            }
+            else if (generatsioon <= 2010)
+            {
+                Console.WriteLine("Mittu comicsit sa täna oma redittit lugemise ajal leidsid?");
+            }
 
 
 
