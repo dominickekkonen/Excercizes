@@ -77,7 +77,20 @@
             // kui sisemine tsükkel on lõpetanud, siis kuva kasutajale see rida välja
             // kui ka esimene tsükkel on lõpetanud, siis kuva kasutajale tekst "tsüklid on lõpetanud"
 
-
+            int ruuduKülg = 0;
+            Console.WriteLine("kui suurt ruutu sa tahad");
+            ruuduKülg = int.Parse(Console.ReadLine());
+            for(int i = 0;i < ruuduKülg;i++)
+            {
+                string seeRida = "";
+                for(int j = 0; j < ruuduKülg; j++)
+                {
+                    seeRida += "HH";
+                }
+                Console.WriteLine(seeRida);
+            }
+            Console.WriteLine("Tsüklid on lõpetanud")
+            
 
             /* Foreach + list ülesanded */
 
@@ -90,6 +103,8 @@
              * kui programm on õigesti kirjutatud, 
              * siis kuvatakse kasutajale välja elemendid kakskümmend ja viiskümmend
              */
+
+
 
             // 2. "summeerimine"
             // kirjuta viie elemendiga massiiv, elemendid on 343,686,2300,4439,6996, muutuja nimi otsusta ise.
