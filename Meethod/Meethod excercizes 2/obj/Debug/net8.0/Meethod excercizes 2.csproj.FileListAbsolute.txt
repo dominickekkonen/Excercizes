@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\bin\Debug\net8.0\Meethod excercizes 2.exe
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\bin\Debug\net8.0\Meethod excercizes 2.deps.json
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\bin\Debug\net8.0\Meethod excercizes 2.runtimeconfig.json
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\bin\Debug\net8.0\Meethod excercizes 2.dll
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\bin\Debug\net8.0\Meethod excercizes 2.pdb
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\obj\Debug\net8.0\Meethod excercizes 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\obj\Debug\net8.0\Meethod excercizes 2.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\obj\Debug\net8.0\Meethod excercizes 2.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\obj\Debug\net8.0\Meethod excercizes 2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\obj\Debug\net8.0\Meethod excercizes 2.sourcelink.json
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\obj\Debug\net8.0\Meethod excercizes 2.dll
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\obj\Debug\net8.0\refint\Meethod excercizes 2.dll
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\obj\Debug\net8.0\Meethod excercizes 2.pdb
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\obj\Debug\net8.0\Meethod excercizes 2.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes 2\obj\Debug\net8.0\ref\Meethod excercizes 2.dll
