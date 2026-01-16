@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\Dominic\\Domin\\Excercizes\\Meethod\\Meethod excercizes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB68EF3D-194C-4599-85A2-BAE674C84B30}|Meethod excercizes.csproj|c:\\users\\opilane\\source\\repos\\dominic\\domin\\excercizes\\meethod\\meethod excercizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB68EF3D-194C-4599-85A2-BAE674C84B30}|Meethod excercizes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Dominic\\Domin\\Excercizes\\Meethod\\Meethod excercizes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Dominic\\Domin\\Excercizes\\Meethod\\Meethod excercizes\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:51:01.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\bin\Debug\net8.0\Meethod excercizes.exe
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\bin\Debug\net8.0\Meethod excercizes.deps.json
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\bin\Debug\net8.0\Meethod excercizes.runtimeconfig.json
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\bin\Debug\net8.0\Meethod excercizes.dll
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\bin\Debug\net8.0\Meethod excercizes.pdb
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\obj\Debug\net8.0\Meethod excercizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\obj\Debug\net8.0\Meethod excercizes.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\obj\Debug\net8.0\Meethod excercizes.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\obj\Debug\net8.0\Meethod excercizes.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\obj\Debug\net8.0\Meethod excercizes.sourcelink.json
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\obj\Debug\net8.0\Meethod excercizes.dll
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\obj\Debug\net8.0\refint\Meethod excercizes.dll
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\obj\Debug\net8.0\Meethod excercizes.pdb
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\obj\Debug\net8.0\Meethod excercizes.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Dominic\Domin\Excercizes\Meethod\Meethod excercizes\obj\Debug\net8.0\ref\Meethod excercizes.dll

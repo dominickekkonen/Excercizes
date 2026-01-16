@@ -1,0 +1,71 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Leht-1" id="o-MwzEvVF2fQ13aoXc3x">
+    <mxGraphModel dx="2852" dy="1639" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="leu6wDmr8e2A9hT297bf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="leu6wDmr8e2A9hT297bf-1" target="leu6wDmr8e2A9hT297bf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-1" value="Algus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="-228" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-2" value="Lõpp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="368" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-3" value="// 1. &quot;arvuta kuni summani&quot;&#xa;// tee muutuja &quot;täisarv&quot; mille sees on täisarv 0&#xa;// kirjuta do while tsükkel&#xa;// tsükli tegevusena lahuta muutujast &quot;täisarv&quot; maha 2&#xa;// ja kuva muutuja &quot;täisarv&quot; välja&#xa;// -&gt; do while tsükli tingimuseks kirjuta kontroll, mis kontrollib kas muutujas &quot;täisarv&quot; on arv miinuses rohkem kui -31&#xa;// peale tsüklit kuva sõnum &quot;tsükkel lõppes&quot;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="-396" width="550" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="leu6wDmr8e2A9hT297bf-4" target="leu6wDmr8e2A9hT297bf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-4" value="&lt;br&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; background-color: rgb(236, 236, 236); display: inline !important;&quot;&gt;Tekitame muutuja &quot;täisarv&quot;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;kuhu omistame algväärtuseks&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;täisarvu 0&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="-359.5" y="-147" width="289" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="leu6wDmr8e2A9hT297bf-7" target="leu6wDmr8e2A9hT297bf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-7" value="Kuva kasutajale muutujas &quot;täisArv&quot; olev väärtus välja" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="58" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="leu6wDmr8e2A9hT297bf-10" target="leu6wDmr8e2A9hT297bf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-10" value="Lahuta muutujas &quot;täisArv&quot; väärtusest maha 2 ning omista uus väärtus muutujasse &quot;täisArv&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-327.5" y="-38" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="leu6wDmr8e2A9hT297bf-14" target="leu6wDmr8e2A9hT297bf-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-18" y="184" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-46" y="184" />
+              <mxPoint x="-46" y="-8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-18" value="EI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="leu6wDmr8e2A9hT297bf-17">
+          <mxGeometry x="-0.8469" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="leu6wDmr8e2A9hT297bf-14" target="leu6wDmr8e2A9hT297bf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-21" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="leu6wDmr8e2A9hT297bf-20">
+          <mxGeometry x="-0.3182" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-14" value="Kas muutuja &quot;täisArv&quot; on&lt;div&gt;&amp;nbsp;väiksem kui -31?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-342" y="144" width="254" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="leu6wDmr8e2A9hT297bf-19" target="leu6wDmr8e2A9hT297bf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leu6wDmr8e2A9hT297bf-19" value="Kuva kasutajale tekst &quot;tsükkel lõppes&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="268" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
