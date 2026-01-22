@@ -40,7 +40,7 @@
             SaveLuuletus(olemasolevSisu, filePath);
 
         }
-        public static void SaveLuuletus(string content, string location)
+        public static void SaveLuuletus(string content, string location) //kirjuta faili sisse 
         {
             Console.WriteLine("Kirjuta faili nimi kuhu soovid oma luuletuse salvestada: ");
             string failinimi = ReadAnswer();
@@ -50,7 +50,7 @@
             DisplayLuuletus(combinedPath);  
         }
 
-        public static void DisplayLuuletus(string location)
+        public static void DisplayLuuletus(string location) //loe failist välja
         {
             using (StreamReader readFile = new StreamReader(location))
             {
