@@ -9,6 +9,28 @@ namespace FileOperations2
         {
             DisplayThisFile();
             FindWord("vatafa");
+            /* Kirjuta meetod mis loeb kokku mitu korda mingi sõna esineb, ning välja kuvatakse ainult kordade arv */
+            WordCount("pepe");
+        }
+
+        private static void WordCount(string filter)
+        {
+            int countOfWord = 0;
+            using (StreamReader thisFile = new StreamReader("C:\\Users\\opilane\\source\\repos\\Dominic\\Domin\\Excercizes\\Failid\\FileOperations2\\laulusõnad.txt"))
+            {
+                int lnr = 0;
+                while (thisFile.EndOfStream == false)
+                {
+                    string thisLine = thisFile.ReadLine();
+                    lnr++;
+                    if (thisLine.Contains(filter))
+                    {
+                        countOfWord++;
+                    }
+                }
+                thisFile.Close();
+            }
+            Console.WriteLine($"Sõna {filter} esines {countOfWord} korda");
         }
 
         private static void FindWord(string filter)
